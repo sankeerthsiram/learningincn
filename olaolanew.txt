@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 in name1 branch changes
+=======
+in branch name 2 and made change in 1st line
+>>>>>>> name2
